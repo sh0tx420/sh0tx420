@@ -20,5 +20,4 @@ Top 10 programming languages:
   - Rust
   - Fuck I ran out of URLs :(
 
-# El huevo
-[![image](https://repository-images.githubusercontent.com/308899893/03f26f00-1b9c-11eb-95a6-e6f8c39c2068)
+![image](https://raw.githubusercontent.com/sh0tx420/sh0tx420/main/image0-52.jpg)
