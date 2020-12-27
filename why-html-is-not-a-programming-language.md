@@ -1,7 +1,6 @@
-
 # Why HTML is not a programming language
 This Markdown document explains why HTML is a Markup language and not a programming language.
-HTML is called Hypertext **Markup Language**. HTML **is not** called Hypertext **Programming Language**.
+[HTML](https://en.wikipedia.org/wiki/HTML) is called Hypertext **Markup Language**. HTML **is not** called Hypertext **Programming Language**.
 
 HTML is a type of markup language. It encapsulates, or "marks up" data within HTML tags, which define the data and describe its purpose on the webpage. The web browser then reads the HTML, which tells it things like which parts are headings, which parts are paragraphs, which parts are links, etc. The HTML describes the data to the browser, and the browser then displays the data accordingly.
 
