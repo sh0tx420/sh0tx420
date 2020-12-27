@@ -1,1 +1,13 @@
 
+# Why HTML is not a programming language
+This Markdown document explains why HTML is a Markup language and not a programming language.
+HTML is called Hypertext **Markup Language**. HTML **is not** called Hypertext **Programming Language**.
+
+HTML is a type of markup language. It encapsulates, or "marks up" data within HTML tags, which define the data and describe its purpose on the webpage. The web browser then reads the HTML, which tells it things like which parts are headings, which parts are paragraphs, which parts are links, etc. The HTML describes the data to the browser, and the browser then displays the data accordingly.
+
+Programming languages have functional purposes. HTML, as a markup language doesn’t really "do" anything in the sense that a programming language does. HTML contains no programming logic. It doesn’t have common conditional statements such as `if`/`else`. It can’t evaluate expressions or do any math. It doesn’t handle events or carry out tasks. You can’t declare variables and you can’t write functions. It doesn’t modify or manipulate data in any way. HTML can’t take input and produce output. Think of it this way: you can’t compute the sum of 2 + 2 in HTML; that’s not what it’s for. This is because HTML is not a programming language.
+
+Unfortunately, coding only in HTML doesn’t make you a programmer. In fact, HTML really shines when you use it in conjunction with an actual programming language, such as when using a web framework. That’s when you can start serving up dynamically created web pages and database applications.
+But don’t worry, even with pure HTML, you’re still a coder. You’re writing lines of code in a (markup, not programming) language. You’re essentially codifying information for the web. So while you might not want to put HTML on the “Programming Languages” part of your resume, you should definitely have it under “Skills”, or simply “Languages”.
+
+Knowledge of web page structure is a valuable asset for anyone to have, in IT as well as in other fields, and I’m definitely not trying to discredit anyone’s knowledge on the awesomeness that is HTML. HTML is a core tenet of front end web development and is obviously a major aspect of what the user winds up seeing on their computer screen. With the emergence of HTML5, HTML’s capabilities and opportunities to define and structure web page data have soared to new heights, with a greater emphasis on multimedia, mobile web, geolocation, and more. This makes a solid understanding of HTML even more useful to have.
