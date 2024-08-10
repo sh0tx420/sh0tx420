@@ -71,7 +71,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both" />
 
 <img src="https://raw.githubusercontent.com/sh0tx420/sh0tx420/output/snake.svg" alt="Snake animation" />
 
